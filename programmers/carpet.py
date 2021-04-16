@@ -1,3 +1,5 @@
+## 이해못했음
+
 def solution(brown, yellow):
 	s= brown + yellow
 
